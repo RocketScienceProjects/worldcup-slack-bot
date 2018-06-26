@@ -37,3 +37,7 @@ Here is a preview of the Colombia vs Japan match.
 The code is ugly but it works.
 
 Everything is posted in french, but feel free to fork and use your own language. FYI, FIFA API can provide text in en/fr/de/es/pt.
+
+### Want a Docker image? 
+
+Try out  ![docker image](https://hub.docker.com/r/okram999/fifa2018-slackbot/) 
