@@ -40,4 +40,4 @@ Everything is posted in french, but feel free to fork and use your own language.
 
 ### Want a Docker image? 
 
-Try out  ![docker image](https://hub.docker.com/r/okram999/fifa2018-slackbot/) 
+Try out  ![docker image] (https://hub.docker.com/r/okram999/fifa2018-slackbot/) 
